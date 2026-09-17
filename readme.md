@@ -17,7 +17,7 @@ Responsable: Salo
 ### 3. Reiniciar votación
 Guarda los resultados de la votación en un archivo de historial y permite iniciar una nueva votación.
 
-Responsable: Salo
+Responsable: Johan
 
 ## Mejora adicional
 
